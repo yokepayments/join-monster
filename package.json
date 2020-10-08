@@ -113,7 +113,7 @@
     "tsd": "^0.13.1"
   },
   "dependencies": {
-    "@stem/nesthydrationjs": "0.4.0",
+    "nesthydrationjs": "git+ssh://git@github.com/yokepayments/NestHydrationJS.git#36ccd86",
     "debug": "^4.1.0",
     "deprecate": "^1.0.0",
     "generatorics": "^1.0.8",
